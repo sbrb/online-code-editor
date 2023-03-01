@@ -41,7 +41,7 @@ function App() {
                 </Box>
                 <Box>
                   <p className="para" style={{ marginTop: 15, marginLeft: 10 }}>
-                    Code Battle
+                    Online Code Editor
                   </p>
                 </Box>
               </Box>
