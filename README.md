@@ -4,7 +4,7 @@
 To use the code editor, simply type your code into the editor pane on the top-hand side of the screen. The editor will automatically preview on bottom-of side.
 
 ## Technology
-This is an online code editor built using `HTML, CSS, Bootstrap, JavaScript and React.js.` This editor allows users to write and run their own code within the browser.
+This is an online code editor built using `HTML, CSS, JavaScript and React.js.` This editor allows users to write and run their own code within the browser.
 
 ## Features
 `Syntax highlighting`- It will highlighting syntax for `JavaScript, HTML, and CSS`
