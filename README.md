@@ -9,6 +9,7 @@ This is an online code editor built using `HTML, CSS, JavaScript and React.js.` 
 ## Features
 `Syntax highlighting`- It will highlighting syntax for `JavaScript, HTML, and CSS`
 `Auto Save`- It will auto save after 1second,
+`Locally Save`-It saves locally all code using local storage. 
 `Hot Reload`- It will reload after 2second.
 `Themes`- It support dark theme, 
 `Responsive`- you can access from your tablet as well as mobile phone. 
